@@ -11,6 +11,7 @@ urlFragment: php-docs-hello-world
 # PHP Hello World
 
 This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
+This is built using php tech stack
 
 ## Contributing
 
